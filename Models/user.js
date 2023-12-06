@@ -7,8 +7,7 @@ const userSchema = new mongoose.Schema({
     unique: true,
   },
   token: {
-    type: Boolean,
-    default: false,
+    type: String,
   },
   online: {
       type: Boolean,
