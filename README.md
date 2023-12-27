@@ -7,6 +7,7 @@
 ![Redux](https://img.shields.io/badge/-Redux-purple?style=for-the-badge&logo=Redux)
 ![ReactRouter](https://img.shields.io/badge/-ReactRouter-white?style=for-the-badge&logo=ReactRouter)
 ![Bootstrap](https://img.shields.io/badge/-Bootstrap-purple?style=for-the-badge&logo=Bootstrap)
+![AWS](https://img.shields.io/badge/AWS-%230072C6.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)
 
 ## Function
 * Login Function
